@@ -1,0 +1,29 @@
+{
+  "name": "webplugin",
+  "version": "1.0.0",
+  "description": "sidebox webplugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --config ./conf/webpack.config.js --mode development",
+    "build": "webpack --config ./conf/webpack.config.js --mode production"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-loader": "^8.0.2",
+    "clean-webpack-plugin": "^0.1.19",
+    "cors": "2.8.4",
+    "express": "^4.16.3",
+    "express-validation": "^1.0.2",
+    "joi": "10.6.0",
+    "node-minify": "^3.4.0",
+    "webpack": "^4.18.0",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "devDependencies": {
+    "babel-minify-webpack-plugin": "^0.3.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-command": "^0.4.0"
+  }
+}

@@ -1,0 +1,7 @@
+webplugin/src/webplugin/js/app/kommunicate-plugin-0.1.min.js
+webplugin/src/webplugin/css/app/mck-sidebox-1.0.min.css
+webplugin/src/webplugin/js/app/mck-sidebox-1.0.min.js
+webplugin/src/webplugin/knowledgebase/kommunicate-kb-0.1.min.js
+webplugin/dist/build/*
+webplugin/node_modules/*
+webplugin/node_modules/.bin/acorn

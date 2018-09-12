@@ -1,0 +1,9 @@
+{
+    "port": 3991,
+    "hostUrl": "http://localhost:3991",
+    "pluginProperties": {
+        "kommunicateApiUrl": "https://api-test.kommunicate.io",
+        "applozicBaseUrl": "https://apps-test.applozic.com",
+        "pseudoNameEnabled": true
+    }
+}
